@@ -1,0 +1,88 @@
+Ticker,Exchange,Name,Sector,Sub-sector,Months,Number of Contracts,Quandl Code
+AD,CME,Australian Dollar,Fx,Major,HMUZ,2,CHRIS/CME_AD
+AL,MCX,Aluminium,Metals,Base,FGHJKMNQUVXZ,2,CHRIS/MCX_AL
+B,ICE,Brent Crude Oil,Energy,Oil,FGHJKMNQUVXZ,25,CHRIS/ICE_B
+BO,CME,Soybean Oil,Agriculture,Grain,FHKNQUVZ,10,CHRIS/CME_BO
+BP,CME,British Pound,Fx,Major,HMUZ,2,CHRIS/CME_BP
+BR,CME,Brazilian Real,Fx,EM,FGHJKMNQUVXZ,4,CHRIS/CME_BR
+BW,ICE,Barley,Agriculture,Grain,HKNVZ,2,CHRIS/ICE_BW
+C,CME,Corn,Agriculture,Grain,HKNUZ,11,CHRIS/CME_C
+CB,CME,Cash-settled Butter,Agriculture,Dairy,FGHJKMNQUVXZ,7,CHRIS/CME_CB
+CC,ICE,Cocoa,Agriculture,Soft,HKNUZ,6,CHRIS/ICE_CC
+CD,CME,Canadian Dollar,Fx,Major,HMUZ,4,CHRIS/CME_CD
+CL,CME,WTI Crude Oil,Energy,Oil,FGHJKMNQUVXZ,38,CHRIS/CME_CL
+CN,SGX,FTSE China A50 Index,Equities,Asia,FGHJKMNQUVXZ,2,CHRIS/SGX_CN
+CRDM,MCX,Cardamom,Agriculture,Soft,FGHJZ,3,CHRIS/MCX_CRDM
+CSC,CME,Cash-Settled Cheese,Agriculture,Dairy,FGHJKMNQUVXZ,10,CHRIS/CME_CSC
+CT,ICE,Cotton,Agriculture,Soft,HKNVZ,6,CHRIS/ICE_CT
+DA,CME,Class III Milk,Agriculture,Dairy,FGHJKMNQUVXZ,10,CHRIS/CME_DA
+DW,ICE,Durum Wheat,Agriculture,Grain,HKNVZ,11,CHRIS/ICE_DW
+DY,CME,Dry Whey,Agriculture,Dairy,FGHJKMNQUVXZ,2,CHRIS/CME_DY
+EC,CME,Euro FX,Fx,Major,HMUZ,2,CHRIS/CME_EC
+ECO,LIFFE,Rapeseed,Agriculture,Grain,GKQX,9,CHRIS/LIFFE_ECO
+ED,CME,3-month Eurodollar,Interest Rates,US mm,HJKMNQUZ,37,CHRIS/CME_ED
+EH,CME,Ethanol,Energy,Refined Product,FGHJKMNQUVXZ,4,CHRIS/CME_EH
+EL,SGX,Euroyen LIBOR,Interest Rates,Japan mm,HMUZ,2,CHRIS/SGX_EL
+EM,CME,1-month Eurodollar,Interest Rates,US mm,FGHJKMNQUVXZ,3,CHRIS/CME_EM
+EPL,LIFFE,Skimmed Milk Powder,Agriculture,Dairy,FHKNUX,2,CHRIS/LIFFE_EPL
+ES,CME,E-mini S&P 500 Index,Equities,US,HMUZ,4,CHRIS/CME_ES
+FC,CME,Feeder Cattle,Agriculture,Meats,FHJKQUVX,7,CHRIS/CME_FC
+FCE,LIFFE,CAC40 Index,Equities,Europe,FGHJKMNQUVXZ,3,CHRIS/LIFFE_FCE
+FDAX,EUREX,DAX,Equities,Europe,HMUZ,3,CHRIS/EUREX_FDAX
+FEU3,EUREX,3-month EURIBOR,Interest Rates,Euro mm,HMUZ,2,CHRIS/EUREX_FEU3
+FF,CME,30 Day Fed Funds,Interest Rates,US mm,FGHJKMNQUVXZ,24,CHRIS/CME_FF
+FGBL,EUREX,Euro-Bund,Interest Rates,Euro gov,HMUZ,2,CHRIS/EUREX_FGBL
+FGBM,EUREX,Euro-Bobl,Interest Rates,Euro gov,HMUZ,2,CHRIS/EUREX_FGBM
+FGBS,EUREX,Euro-Schatz,Interest Rates,Euro gov,HMUZ,2,CHRIS/EUREX_FGBS
+FGBX,EUREX,Euro-Buxl,Interest Rates,Euro gov,HMUZ,2,CHRIS/EUREX_FGBX
+FHOG,EUREX,Hogs,Agriculture,Meat,FGHJKMNQUVXZ,2,CHRIS/EUREX_FHOG
+FPIG,EUREX,Piglets,Agriculture,Meat,FGHJKMNQUVXZ,2,CHRIS/EUREX_FPIG
+FV,CME,5 Year Treasury Note,Interest Rates,US gov,HMUZ,2,CHRIS/CME_FV
+G,ICE,Gasoil,Energy,Refined Product,FGHJKMNQUVXZ,13,CHRIS/ICE_G
+GC,CME,Gold,Metals,Precious,GHJKMQVZ,16,CHRIS/CME_GC
+GV,CBOE,Gold VIX,Metals,Vol,FGHJKMNQUVXZ,2,CHRIS/CBOE_GV
+HG,CME,Copper,Metals,Base,FGHJKMNQUVXZ,11,CHRIS/CME_HG
+HO,CME,Heating Oil,Energy,Refined Product,FGHJKMNQUVXZ,17,CHRIS/CME_HO
+I,LIFFE,3-month EURIBOR,Interest Rates,Euro mm,FGHJKMNQUVXZ,2,CHRIS/LIFFE_I
+I3,CME,30 Year Interest Rate Swap,Interest Rates,US mm,HMUZ,2,CHRIS/CME_I3
+JY,CME,Japanese Yen,Fx,Major,HMUZ,2,CHRIS/CME_JY
+KRU,ICE,Russian Ruble/US Dollar,Fx,EM,HMUZ,2,CHRIS/ICE_KRU
+LB,CME,Lumber,Agriculture,Soft,FHKNUX,2,CHRIS/CME_LB
+LC,CME,Live Cattle,Agriculture,Meat,GJMQVZ,7,CHRIS/CME_LC
+LN,CME,Lean Hogs,Agriculture,Meat,GJKMNQVZ,10,CHRIS/CME_LN
+MD,CME,S&P 400 MidCap Index,Equities,US,HMUZ,2,CHRIS/CME_MD
+MFA,LIFFE,Mini AEX Index,Equities,Asia,FGHJKMNQUVXZ,2,CHRIS/LIFFE_MFA
+MP,CME,Mexican Peso,Fx,EM,FGHJKMNQUVXZ,2,CHRIS/CME_MP
+NE,CME,New Zealand Dollar,Fx,Major,HMUZ,2,CHRIS/CME_NE
+NG,CME,Natural Gas,Energy,Gas,FGHJKMNQUVXZ,43,CHRIS/CME_NG
+NI,MCX,Nickel,Metals,Base,FGHJKMNQUVXZ,2,CHRIS/MCX_NI
+NQ,CME,E-mini NASDAQ 100 Index,Equities,US,HMUZ,2,CHRIS/CME_NQ
+NT,ICE,US Dollar/Norwegian Krone,Fx,Major,HMUZ,2,CHRIS/ICE_NT
+NU,SGX,USD Nikkei 225 Index,Equities,Asia,HMUZ,2,CHRIS/SGX_NU
+O,CME,Oats,Agriculture,Soft,HKNUZ,3,CHRIS/CME_O
+OJ,ICE,Orange Juice,Agriculture,Soft,FHKNUX,7,CHRIS/ICE_OJ
+OV,CBOE,Crude Oil ETF VIX,Energy,Vol,FGHJKMNQUVXZ,2,CHRIS/CBOE_OV
+PA,CME,Palladium,Metals,Base,HJKMUZ,2,CHRIS/CME_PA
+PB,MCX,Lead,Metals,Base,FGHJKMNQUVXZ,2,CHRIS/MCX_PB
+PL,CME,Platinum,Metals,Precious,FHJKNV,3,CHRIS/CME_PL
+PZ,CME,Polish Zloty,Fx,EM,HMUZ,2,CHRIS/CME_PZ
+QL,CME,Coal,Energy,Coal,FGHJKMNQUVXZ,2,CHRIS/CME_QL
+RA,CME,South African Rand,Fx,EM,FGHJKMNQUVXZ,2,CHRIS/CME_RA
+RB,CME,Gasoline,Energy,Refined Product,FGHJKMNQUVXZ,10,CHRIS/CME_RB
+RC,LIFFE,Coffee,Agriculture,Soft,FHKNUX,6,CHRIS/LIFFE_RC
+RF,ICE,Russell 1000,Equities,US,HMUZ,2,CHRIS/ICE_RF
+RR,CME,Rough Rice,Agriculture,Grain,FHKNUX,3,CHRIS/CME_RR
+RS,ICE,Canola,Agriculture,Grain,FHKNX,5,CHRIS/ICE_RS
+S,CME,Soybeans,Agriculture,Grain,FHKNQUX,10,CHRIS/CME_S
+SF,CME,Swiss Franc,Fx,Major,HMUZ,2,CHRIS/CME_SF
+SI,CME,Silver,Metals,Precious,FHJKNUZ,12,CHRIS/CME_SI
+SM,CME,Soybean Meal,Agriculture,Grain,FHKNQUVZ,11,CHRIS/CME_SM
+TY,CME,10 Year Treasury Note,Interest Rates,US gov,HMUZ,2,CHRIS/CME_TY
+UL,CME,Ultra Treasury Bond,Interest Rates,US gov,HMUZ,2,CHRIS/CME_UL
+US,CME,30-Year Treasury Bond,Interest Rates,US gov,HMUZ,2,CHRIS/CME_US
+VN,CBOE,NASDAQ 100 VIX,Equities,Vol,FGHJKMNQUVXZ,2,CHRIS/CBOE_VN
+VX,CBOE,S&P 500 VIX,Equities,Vol,FGHJKMNQUVXZ,9,CHRIS/CBOE_VX
+W,CME,Wheat,Agriculture,Grain,HKNUZ,7,CHRIS/CME_W
+Z,LIFFE,FTSE 100 Index,Equities,Europe,HMUZ,2,CHRIS/LIFFE_Z
+ZN,MCX,Zinc,Metals,Base,FGHJKMNQUVXZ,2,CHRIS/MCX_ZN
+ZR,ICE,US Dollar/South African Rand,Fx,EM,HMUZ,2,CHRIS/ICE_ZR
